@@ -17,9 +17,11 @@ Syntax highlighted code block
 
 - Bulleted
 - List
+- Arrow
 
 1. Numbered
 2. List
+3. Alphabetic
 
 **Bold** and _Italic_ and `Code` text
 
