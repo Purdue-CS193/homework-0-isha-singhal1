@@ -1,3 +1,10 @@
+# Isha Singhal's First CS193 Homework
+
+- Games at the beginning of lecture
+- Chill and fun class
+- No tests
+- The instructors and TA's
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
